@@ -7,7 +7,7 @@
         "Changelog": "FFXIV 6.2 Update! Features, Fixes & Enhancements for Framework, Globals, AST, BLU, DNC, DRK, GNB, NIN, NINPvP, RPR and SAM. Please check the project's GitHub or Discord for a full changelog.",
         "InternalName": "XIVSlothCombo",
         "AssemblyVersion": "3.0.17.0",
-        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+        "RepoUrl": "https://github.com/lolhackjp/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
@@ -15,11 +15,11 @@
         "ImageUrls": [
             "https://i.imgur.com/UeRukF8.png"
         ],
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkInstall": "https://github.com/lolhackjp/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkTesting": "https://github.com/lolhackjp/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/lolhackjp/MyDalamudPlugins/raw/main/plugins/XIVSlothCombo/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1661395891"
     }
