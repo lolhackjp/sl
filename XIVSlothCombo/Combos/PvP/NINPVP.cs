@@ -24,7 +24,8 @@ namespace XIVSlothCombo.Combos.PvP
             Meisui = 29508,
             Huton = 29512,
             Doton = 29514,
-            Assassinate = 29503;
+            Assassinate = 29503,
+            Decipher = 1694;
 
         internal class Buffs
         {
@@ -59,7 +60,7 @@ namespace XIVSlothCombo.Combos.PvP
 
             protected override uint Invoke(uint actionID, uint lastComboActionID, float comboTime, byte level)
             {
-                if (actionID is SpinningEdge or GustSlash or AeolianEdge)
+                if (actionID is Decipher)
                 {
                     var threeMudrasCD = GetCooldown(ThreeMudra);
                     var fumaCD = GetCooldown(FumaShuriken);
